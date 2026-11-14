@@ -1,0 +1,10 @@
+VU-BCS-002,Ssemakula,Networks,71
+VU-BCS-003, Achieng,Networks,82
+VU-BCS-004,Kato,Java,88
+VU-BCS-005,Nabirye,Java,90
+VU-BCS-006,Opio,Database,73
+VU-BCS-007,Okello,Java,65
+VU-BCS-008,Nansubuga,Networks,47
+VU-BCS-009,Akello,Database,60
+VU-BCS-010,Mugisha,Database,55
+VU-BCS-2507-1756, ATEGEKA  ANDREW,CS,80
